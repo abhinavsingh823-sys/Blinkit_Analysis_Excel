@@ -2,7 +2,7 @@
 
 An interactive **Excel dashboard** analysing sales, ratings and outlet performance for a Blinkit-style grocery dataset (8,523 records). Built with PivotTables, PivotCharts and Slicers to answer: *what sells, where, and through which kind of outlet?*
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](dashboard.png)
 
 ## 📌 Project Overview
 
@@ -67,10 +67,8 @@ An interactive **Excel dashboard** analysing sales, ratings and outlet performan
 
 ```
 blinkit-grocery-sales-dashboard/
-├── data/
-│   └── BlinkIT_Grocery_Data_Excel.xlsx   # data + pivot tables + dashboard
-├── images/
-│   └── dashboard.png                     # dashboard screenshot
+├── BlinkIT_Grocery_Data_Excel.xlsx   # data + pivot tables + dashboard
+├── dashboard.png                     # dashboard screenshot
 ├── README.md
 └── .gitignore
 ```
