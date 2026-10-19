@@ -87,4 +87,4 @@ Data cleaning · PivotTables · PivotCharts · Slicers · KPI design · Dashboar
 ## 👤 Author
 
 **Abhinav Singh** — B.E. Biotechnology Engineering, UIET, Panjab University 
-🔗 [LinkedIn](www.linkedin.com/in/abhinav-singh-055225411) [Gmail](abhinavsinghxyzabc@gmail.com)· 
+🔗 [LinkedIn](www.linkedin.com/in/abhinav-singh-055225411) [Gmail] - abhinavsinghxyzabc@gmail.com· 
