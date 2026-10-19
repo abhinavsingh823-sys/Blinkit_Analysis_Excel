@@ -86,9 +86,5 @@ Data cleaning · PivotTables · PivotCharts · Slicers · KPI design · Dashboar
 
 ## 👤 Author
 
-**Abhinav** — B.E. Biotechnology Engineering, UIET, Panjab University
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
-
-## 🙏 Acknowledgements
-
-Dataset source: _add the original source/link here (e.g. Kaggle or course instructor)_.
+**Abhinav Singh** — B.E. Biotechnology Engineering, UIET, Panjab University 
+🔗 [LinkedIn](www.linkedin.com/in/abhinav-singh-055225411) [Gmail](abhinavsinghxyzabc@gmail.com)· 
