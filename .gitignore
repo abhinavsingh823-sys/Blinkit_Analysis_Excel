@@ -1,0 +1,13 @@
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
